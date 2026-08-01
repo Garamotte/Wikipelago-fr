@@ -1,0 +1,1546 @@
+{
+  "summary": {
+    "pool_size": 1641,
+    "unique_titles": 1641,
+    "ok": 832,
+    "missing": 424,
+    "disambiguation": 146,
+    "redirect_ok": 239,
+    "duplicates": 0,
+    "all_ok": 832
+  },
+  "missing": [
+    "Hades (video game)",
+    "Celeste (video game)",
+    "Portal (video game)",
+    "God of War (2018 video game)",
+    "Pokémon Red, Blue, and Yellow",
+    "Pokémon Scarlet and Violet",
+    "Call of Duty: Warzone (2020 video game)",
+    "Doom (1993 video game)",
+    "Quake (video game)",
+    "The Sims 4",
+    "Phasmophobia (video game)",
+    "Go (game)",
+    "Monopoly (game)",
+    "Risk (game)",
+    "Battleship (game)",
+    "Connect Four",
+    "Twister (game)",
+    "Uno (card game)",
+    "Ticket to Ride (board game)",
+    "Carcassonne (board game)",
+    "Pandemic (board game)",
+    "7 Wonders (board game)",
+    "Dominion (card game)",
+    "Terraforming Mars (board game)",
+    "Wingspan (board game)",
+    "Azul (board game)",
+    "Root (board game)",
+    "Codenames (board game)",
+    "Jaws (film)",
+    "Star Wars (film)",
+    "Return of the Jedi",
+    "Gladiator (2000 film)",
+    "Titanic (1997 film)",
+    "Avatar (2009 film)",
+    "Coco (2017 film)",
+    "Frozen (2013 film)",
+    "Moana (2016 film)",
+    "Iron Man (2008 film)",
+    "The Avengers (2012 film)",
+    "Whiplash (2014 film)",
+    "Dune (2021 film)",
+    "Arcane (TV series)",
+    "Bluey (TV series)",
+    "The Office (American TV series)",
+    "Wednesday (TV series)",
+    "The Walking Dead (TV series)",
+    "Lost (TV series)",
+    "The Last of Us (TV series)",
+    "Loki (TV series)",
+    "Daredevil (TV series)",
+    "Sherlock (TV series)",
+    "The Boys (TV series)",
+    "Invincible (TV series)",
+    "Peaky Blinders (TV series)",
+    "The Crown (TV series)",
+    "Chernobyl (miniseries)",
+    "The Queen's Gambit (miniseries)",
+    "The Bear (TV series)",
+    "Succession (TV series)",
+    "Euphoria (American TV series)",
+    "One Piece (2023 TV series)",
+    "The Witcher (TV series)",
+    "The Umbrella Academy (TV series)",
+    "Vikings (TV series)",
+    "World cup",
+    "Olympic Games",
+    "Summer Olympic Games",
+    "Winter Olympic Games",
+    "Wimbledon Championships",
+    "Cricket World Cup",
+    "Solar System",
+    "Space exploration",
+    "Physics",
+    "Biology",
+    "Mathematics",
+    "Web browser",
+    "Artificial intelligence",
+    "Virtual reality",
+    "Ancient Egypt",
+    "Ancient Greece",
+    "Middle Ages",
+    "Industrial Revolution",
+    "World War I",
+    "World War II",
+    "Moon landing",
+    "History of the Internet",
+    "Amazon rainforest",
+    "Pacific Ocean",
+    "Atlantic Ocean",
+    "French cuisine",
+    "Italian cuisine",
+    "Japanese cuisine",
+    "Mexican cuisine",
+    "Indian cuisine",
+    "Greek mythology",
+    "Norse mythology",
+    "The Starry Night",
+    "Pokémon Ruby and Sapphire",
+    "Pokémon Diamond and Pearl",
+    "Pokémon Black and White",
+    "Kirby and the Forgotten Land",
+    "Nier (video game)",
+    "Dead Space (2008 video game)",
+    "Control (video game)",
+    "Celeste 64: Fragments of the Mountain",
+    "Noita (video game)",
+    "Brotato",
+    "Slay the Spire II",
+    "Half-Life (video game)",
+    "Clubhouse Games: 51 Worldwide Classics",
+    "Sorry! (game)",
+    "Bingo (American version)",
+    "Yu-Gi-Oh! Trading Card Game",
+    "Splendor (game)",
+    "Munchkin (card game)",
+    "Tabletop game",
+    "Role-playing game",
+    "Strategy game",
+    "Cooperative board game",
+    "Card game",
+    "Board game",
+    "Twitch (service)",
+    "Xbox Series X and Series S",
+    "Arcade game",
+    "Video game console",
+    "Handheld game console",
+    "PC game",
+    "Esports",
+    "Video game developer",
+    "Video game publisher",
+    "Unity (game engine)",
+    "Source (game engine)",
+    "Godot (game engine)",
+    "Open-source software",
+    "Artificial general intelligence",
+    "Virtual reality headset",
+    "Bastion (video game)",
+    "Hitman (2016 video game)",
+    "Journey (2012 video game)",
+    "Omori (video game)",
+    "Paladins (video game)",
+    "Prey (2017 video game)",
+    "Transistor (video game)",
+    "A Game of Thrones (board game)",
+    "Agricola (board game)",
+    "Arkham Horror",
+    "Bang! (card game)",
+    "Blood Rage (board game)",
+    "Brass (board game)",
+    "Captain Sonar",
+    "Cascadia (board game)",
+    "Citadels (card game)",
+    "Coup (card game)",
+    "Deck-building game",
+    "List of dice games",
+    "Dixit (board game)",
+    "Eldritch Horror",
+    "Forbidden Island (game)",
+    "Forbidden Desert",
+    "Hive (game)",
+    "Love Letter (card game)",
+    "Mastermind (board game)",
+    "Meeple",
+    "Santorini (game)",
+    "Scythe (board game)",
+    "Sequence (game)",
+    "Skull (card game)",
+    "Small World (board game)",
+    "The Crew (card game)",
+    "Word game",
+    "A Quiet Place",
+    "Aliens (film)",
+    "Doctor Strange (2016 film)",
+    "Her (2013 film)",
+    "How to Train Your Dragon (2010 film)",
+    "Kill Bill: Volume 1",
+    "Madagascar (2005 film)",
+    "Mission: Impossible – Fallout",
+    "Parasite (2019 film)",
+    "Up (2009 film)",
+    "Community (TV series)",
+    "Glee (TV series)",
+    "Hannibal (TV series)",
+    "Heartstopper (TV series)",
+    "Lost in Space (2018 TV series)",
+    "Lucifer (TV series)",
+    "Ozark (TV series)",
+    "Scrubs (TV series)",
+    "Sex Education (TV series)",
+    "Suits (American TV series)",
+    "Supernatural (American TV series)",
+    "The Leftovers (TV series)",
+    "What We Do in the Shadows (TV series)",
+    "Kaguya-sama: Love Is War",
+    "Pokémon (TV series)",
+    "The Apothecary Diaries",
+    "Vinland Saga (manga)",
+    "Ice hockey",
+    "National Hockey League",
+    "College football",
+    "College basketball",
+    "Rugby World Cup",
+    "Professional wrestling",
+    "Table tennis",
+    "Sport of athletics",
+    "Track and field",
+    "Competitive swimming",
+    "Gymnastics",
+    "Skateboarding",
+    "Snowboarding",
+    "Surfing",
+    "UEFA European Championship",
+    "Quantum mechanics",
+    "General relativity",
+    "Theory of relativity",
+    "Cell (biology)",
+    "Photosynthesis",
+    "Natural selection",
+    "Climate change",
+    "Oceanography",
+    "Paleontology",
+    "Apollo program",
+    "Mercury (planet)",
+    "Exoplanet",
+    "Web development",
+    "Front end and back end",
+    "Search engine",
+    "Streaming media",
+    "Microprocessor",
+    "Semiconductor",
+    "Computer security",
+    "Ancient Rome",
+    "Byzantine Empire",
+    "Ottoman Empire",
+    "Mongol Empire",
+    "French Revolution",
+    "American Revolution",
+    "Victorian era",
+    "Bronze Age",
+    "Iron Age",
+    "Age of Discovery",
+    "Great Depression",
+    "Feudalism",
+    "Berlin Wall",
+    "Norman Conquest",
+    "Printing press",
+    "Steam engine",
+    "North America",
+    "South America",
+    "South Korea",
+    "Mount Fuji",
+    "Mount Kilimanjaro",
+    "Mediterranean Sea",
+    "Arctic Ocean",
+    "Dumpling",
+    "Fried rice",
+    "Noodle",
+    "Waffle",
+    "Soft drink",
+    "The Last Supper (Leonardo)",
+    "Roman mythology",
+    "Egyptian mythology",
+    "Japanese mythology",
+    "Celtic mythology",
+    "Phoenix (mythology)",
+    "Fairy",
+    "The Super Mario Galaxy Movie",
+    "God of War (franchise)",
+    "Toy Story (franchise)",
+    "Asha Sharma",
+    "Resident Evil – Code: Veronica",
+    "Characters of the Mortal Kombat series",
+    "Mobile app",
+    "Major Arcana",
+    "Elo rating system",
+    "Grandmaster (chess)",
+    "Playing card",
+    "Klondike (solitaire)",
+    "Standard 52-card deck",
+    "Contract bridge",
+    "Warhammer (game)",
+    "Trench Crusade",
+    "XXX (film series)",
+    "I Will Find You",
+    "Teach You a Lesson",
+    "From (TV series)",
+    "Cape Fear (TV series)",
+    "Tip Toe (TV series)",
+    "The Four Seasons (TV series)",
+    "Penelope Keith",
+    "Death of Michael Jackson",
+    "Rivals (TV series)",
+    "Your Friends & Neighbors (TV series)",
+    "Jordyn Woods",
+    "For All Mankind (TV series)",
+    "Half Man (TV series)",
+    "Yellowstone (TV series)",
+    "Interview with the Vampire (TV series)",
+    "Clarkson's Farm",
+    "Smoking Behind the Supermarket with You",
+    "Witch Hat Atelier",
+    "Daemons of the Shadow Realm",
+    "Jimoto Saiko!",
+    "Go for It, Nakamura!",
+    "Grave of the Fireflies",
+    "Nippon Sangoku",
+    "Lizzie Freeman",
+    "Re:Zero season 4",
+    "Attack on Titan (TV series)",
+    "Marriagetoxin",
+    "Agents of the Four Seasons",
+    "Jujutsu Kaisen (TV series)",
+    "Exhibition game",
+    "NBA Finals",
+    "TNT Sports (United Kingdom)",
+    "FIFA Club World Cup",
+    "Teetotalism",
+    "San Ysidro McDonald's massacre",
+    "Chocolate-coated marshmallow treats",
+    "Buc-ee's",
+    "Pescetarianism",
+    "Human cannibalism",
+    "Jessica Seinfeld",
+    "Matty Matheson",
+    "MasterChef (American TV series) season 16",
+    "Breyers",
+    "Bobby Flay",
+    "Prohibition in the United States",
+    "Liver King",
+    "Guy Fieri",
+    "Michelin Guide",
+    "Mangosteen",
+    "Wild boar",
+    "Hell's Kitchen (American TV series)",
+    "Angus Barbieri's fast",
+    "Caesar salad",
+    "Watermelon",
+    "Goyslop",
+    "Cashew",
+    "Anglerfish",
+    "Prue Leith",
+    "Rhubarb",
+    "Caffeine",
+    "MasterChef (American TV series)",
+    "Flowering plant",
+    "Luby's shooting",
+    "Vietnam War",
+    "Soviet Union",
+    "The Holocaust",
+    "Nazi Germany",
+    "Catholic Church",
+    "American Revolutionary War",
+    "Holy Roman Empire",
+    "The Buddha",
+    "Baháʼí Faith",
+    "British Empire",
+    "Battle of Midway",
+    "Assassination of John F. Kennedy",
+    "Achaemenid Empire",
+    "Independence Day (United States)",
+    "Russian Empire",
+    "Nikita Khrushchev",
+    "Constantine the Great",
+    "Thirteen Colonies",
+    "Nazi Party",
+    "Second presidency of Donald Trump",
+    "Thirty Years' War",
+    "Empire of Japan",
+    "Agnosticism",
+    "Weimar Republic",
+    "Strait of Hormuz",
+    "Generation Alpha",
+    "Oceania",
+    "Herzegovina",
+    "Microdata (HTML)",
+    "X (social network)",
+    "Wealth of Elon Musk",
+    "Star City (TV series)",
+    "Summer solstice",
+    "Wet-bulb temperature",
+    "Chicxulub crater",
+    "Space Shuttle Challenger disaster",
+    "Liminal space",
+    "A Song of Ice and Fire",
+    "Rhaenyra Targaryen",
+    "Harry Potter (film series)",
+    "Whalefall (novel)",
+    "Yesteryear (novel)",
+    "Blood Meridian",
+    "The Vampire Lestat",
+    "Alien (franchise)",
+    "Harry Potter (TV series)",
+    "A Court of Thorns and Roses",
+    "One Thousand and One Nights",
+    "Ship of Theseus",
+    "Momo Challenge hoax",
+    "Pied Piper of Hamelin",
+    "Brothers Grimm",
+    "Rumpelstiltskin",
+    "Succubus",
+    "Hero's journey",
+    "Jeff the Killer",
+    "Will-o'-the-wisp",
+    "Druid",
+    "The Quarry (video game)",
+    "David Grusch UFO whistleblower claims",
+    "Reptilian humanoid",
+    "Annabelle (doll)",
+    "Grey alien",
+    "Garden of Eden",
+    "Feral child",
+    "Abu Fanous",
+    "Grimms' Fairy Tales",
+    "Love Island USA",
+    "Prince (musician)",
+    "Drake (musician)",
+    "Classical music",
+    "Joe Jackson (talent manager)",
+    "Tay Keith",
+    "Michael Johnston (actor)",
+    "Jackson family",
+    "Jelly Roll (singer)",
+    "XXX (Kendrick Lamar song)",
+    "Robert Smith (musician)"
+  ],
+  "disambiguation": [
+    "Chess",
+    "Checkers",
+    "The Game of Life",
+    "The Godfather",
+    "Fight Club",
+    "Back to the Future",
+    "E.T. the Extra-Terrestrial",
+    "Inside Out",
+    "Shrek",
+    "The Wire",
+    "Andor",
+    "Black Mirror",
+    "Attack on Titan",
+    "Premier League",
+    "Formula One",
+    "Earth",
+    "Mars",
+    "Jupiter",
+    "Saturn",
+    "Moon",
+    "Black hole",
+    "Galaxy",
+    "Astronomy",
+    "Great Wall of China",
+    "Colosseum",
+    "Nile",
+    "London",
+    "Chocolate",
+    "Coffee",
+    "Tea",
+    "Myth",
+    "Mermaid",
+    "Mona Lisa",
+    "Macbeth",
+    "Romeo and Juliet",
+    "Pride and Prejudice",
+    "To Kill a Mockingbird",
+    "Silent Hill",
+    "Forza",
+    "LittleBigPlanet",
+    "Ludo",
+    "Blade Runner",
+    "Catch Me If You Can",
+    "John Wick",
+    "The Prestige",
+    "Arrested Development",
+    "Mr. Robot",
+    "The X-Files",
+    "Twin Peaks",
+    "Marathon",
+    "Evolution",
+    "Dinosaur",
+    "Venus",
+    "Neptune",
+    "Uranus",
+    "Pluto",
+    "Stone Age",
+    "Space Race",
+    "Crusades",
+    "Asia",
+    "Africa",
+    "Australia",
+    "Antarctica",
+    "Japan",
+    "United States",
+    "Brazil",
+    "Germany",
+    "Spain",
+    "China",
+    "India",
+    "Egypt",
+    "Niagara Falls",
+    "Cake",
+    "Cookie",
+    "Lasagna",
+    "Croissant",
+    "Espresso",
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Odyssey",
+    "Don Quixote",
+    "Frankenstein",
+    "The Great Gatsby",
+    "The Catcher in the Rye",
+    "Hades",
+    "Hercules",
+    "Achilles",
+    "Perseus",
+    "Medusa",
+    "Pegasus",
+    "Minotaur",
+    "Ghost",
+    "Blackjack",
+    "Roulette",
+    "Game",
+    "Dice",
+    "Anthony Head",
+    "La Liga",
+    "Serie A",
+    "Bundesliga",
+    "Dionysus",
+    "Water",
+    "Cheers",
+    "Fish",
+    "Rabbit",
+    "Banana",
+    "Cicada",
+    "Potato",
+    "Pig",
+    "Guinea pig",
+    "Absinthe",
+    "Goat",
+    "Strawberry",
+    "Mango",
+    "Camel",
+    "King Arthur",
+    "England",
+    "Generation X",
+    "Macau",
+    "Patagonia",
+    "Sun",
+    "Wuthering Heights",
+    "John Williams",
+    "The Handmaid's Tale",
+    "Lord of the Flies",
+    "Richard Harris",
+    "Robin Hood",
+    "Bermuda Triangle",
+    "Moses",
+    "Jinn",
+    "Cinderella",
+    "Unicorn",
+    "William Tell",
+    "Yeti",
+    "Santa Claus",
+    "Incubus",
+    "Griffin",
+    "Hell",
+    "Aladdin",
+    "Flying Dutchman",
+    "Snow White",
+    "The Little Mermaid",
+    "Abbey Road",
+    "Music",
+    "Henry VIII"
+  ],
+  "redirect_ok": [
+    {
+      "title": "Red Dead Redemption 2",
+      "canonical": "Red Dead Redemption II"
+    },
+    {
+      "title": "Pokémon Gold and Silver",
+      "canonical": "Pokémon Or et Argent"
+    },
+    {
+      "title": "Street Fighter II",
+      "canonical": "Street Fighter II: The World Warrior"
+    },
+    {
+      "title": "StarCraft II: Wings of Liberty",
+      "canonical": "StarCraft 2: Wings of Liberty"
+    },
+    {
+      "title": "Age of Empires II",
+      "canonical": "Age of Empires II: The Age of Kings"
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "canonical": "Baldur's Gate III"
+    },
+    {
+      "title": "Mahjong",
+      "canonical": "Mah-jong"
+    },
+    {
+      "title": "Catan",
+      "canonical": "Les Colons de Catane"
+    },
+    {
+      "title": "Magic: The Gathering",
+      "canonical": "Magic : L'Assemblée"
+    },
+    {
+      "title": "Pokémon Trading Card Game",
+      "canonical": "Jeu de cartes à collectionner Pokémon"
+    },
+    {
+      "title": "Dungeons & Dragons",
+      "canonical": "Donjons et Dragons"
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "canonical": "Le Seigneur des anneaux : La Communauté de l'anneau"
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers",
+      "canonical": "Le Seigneur des anneaux : Les Deux Tours"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "canonical": "Le Seigneur des anneaux : Le Retour du roi"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone (film)",
+      "canonical": "Harry Potter à l'école des sorciers (film)"
+    },
+    {
+      "title": "The Dark Knight",
+      "canonical": "The Dark Knight : Le Chevalier noir"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "canonical": "Les Évadés (film, 1994)"
+    },
+    {
+      "title": "Interstellar (film)",
+      "canonical": "Interstellar"
+    },
+    {
+      "title": "The Matrix",
+      "canonical": "Matrix (film)"
+    },
+    {
+      "title": "Avatar: The Way of Water",
+      "canonical": "Avatar : La Voie de l'eau"
+    },
+    {
+      "title": "Ghostbusters",
+      "canonical": "SOS Fantômes"
+    },
+    {
+      "title": "Home Alone",
+      "canonical": "Maman, j'ai raté l'avion !"
+    },
+    {
+      "title": "The Lion King",
+      "canonical": "Le Roi lion"
+    },
+    {
+      "title": "Finding Nemo",
+      "canonical": "Le Monde de Nemo"
+    },
+    {
+      "title": "The Incredibles",
+      "canonical": "Les Indestructibles"
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "canonical": "Spider-Man: New Generation"
+    },
+    {
+      "title": "Guardians of the Galaxy (film)",
+      "canonical": "Les Gardiens de la Galaxie (film)"
+    },
+    {
+      "title": "The Super Mario Bros. Movie",
+      "canonical": "Super Mario Bros., le film"
+    },
+    {
+      "title": "La La Land",
+      "canonical": "La La Land (film)"
+    },
+    {
+      "title": "Dune: Part Two",
+      "canonical": "Dune, deuxième partie"
+    },
+    {
+      "title": "The Simpsons",
+      "canonical": "Les Simpson"
+    },
+    {
+      "title": "Family Guy",
+      "canonical": "Les Griffin"
+    },
+    {
+      "title": "SpongeBob SquarePants",
+      "canonical": "Bob l'éponge"
+    },
+    {
+      "title": "Avatar: The Last Airbender",
+      "canonical": "Avatar, le dernier maître de l'air"
+    },
+    {
+      "title": "The Legend of Korra",
+      "canonical": "La Légende de Korra"
+    },
+    {
+      "title": "Rick and Morty",
+      "canonical": "Rick et Morty"
+    },
+    {
+      "title": "Gravity Falls",
+      "canonical": "Souvenirs de Gravity Falls"
+    },
+    {
+      "title": "The Sopranos",
+      "canonical": "Les Soprano"
+    },
+    {
+      "title": "Dexter (TV series)",
+      "canonical": "Dexter (série télévisée)"
+    },
+    {
+      "title": "House (TV series)",
+      "canonical": "Dr House"
+    },
+    {
+      "title": "Prison Break",
+      "canonical": "Prison Break (série télévisée)"
+    },
+    {
+      "title": "Bleach (TV series)",
+      "canonical": "Bleach (série télévisée d'animation)"
+    },
+    {
+      "title": "Cowboy Bebop",
+      "canonical": "Cowboy Bebop (série d'animation japonaise)"
+    },
+    {
+      "title": "UEFA Champions League",
+      "canonical": "Ligue des champions de l'UEFA"
+    },
+    {
+      "title": "Major League Baseball",
+      "canonical": "Ligues majeures de baseball"
+    },
+    {
+      "title": "FIFA World Cup",
+      "canonical": "Coupe du monde de football"
+    },
+    {
+      "title": "American football",
+      "canonical": "Football américain"
+    },
+    {
+      "title": "Basketball",
+      "canonical": "Basket-ball"
+    },
+    {
+      "title": "Association football",
+      "canonical": "Football"
+    },
+    {
+      "title": "International Space Station",
+      "canonical": "Station spatiale internationale"
+    },
+    {
+      "title": "Hubble Space Telescope",
+      "canonical": "Hubble (télescope spatial)"
+    },
+    {
+      "title": "James Webb Space Telescope",
+      "canonical": "James Webb (télescope spatial)"
+    },
+    {
+      "title": "Wikipedia",
+      "canonical": "Wikipédia"
+    },
+    {
+      "title": "Firefox",
+      "canonical": "Mozilla Firefox"
+    },
+    {
+      "title": "Android (operating system)",
+      "canonical": "Android"
+    },
+    {
+      "title": "Steam (service)",
+      "canonical": "Steam"
+    },
+    {
+      "title": "Cold War",
+      "canonical": "Guerre froide"
+    },
+    {
+      "title": "Silk Road",
+      "canonical": "Silk road"
+    },
+    {
+      "title": "History of writing",
+      "canonical": "Histoire de l'écriture"
+    },
+    {
+      "title": "Eiffel Tower",
+      "canonical": "Tour Eiffel"
+    },
+    {
+      "title": "Statue of Liberty",
+      "canonical": "Statue de la Liberté"
+    },
+    {
+      "title": "Mount Everest",
+      "canonical": "Everest"
+    },
+    {
+      "title": "New York City",
+      "canonical": "New York"
+    },
+    {
+      "title": "Pasta",
+      "canonical": "Pâtes alimentaires"
+    },
+    {
+      "title": "Ramen",
+      "canonical": "Rāmen"
+    },
+    {
+      "title": "Ice cream",
+      "canonical": "Crème glacée"
+    },
+    {
+      "title": "Athena",
+      "canonical": "Athéna"
+    },
+    {
+      "title": "Poseidon",
+      "canonical": "Poséidon"
+    },
+    {
+      "title": "Werewolf",
+      "canonical": "Lycanthrope"
+    },
+    {
+      "title": "Leonardo da Vinci",
+      "canonical": "Léonard de Vinci"
+    },
+    {
+      "title": "The Hobbit",
+      "canonical": "Le Hobbit"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "canonical": "Le Seigneur des anneaux"
+    },
+    {
+      "title": "Pokémon Sun and Moon",
+      "canonical": "Pokémon Soleil et Lune"
+    },
+    {
+      "title": "Pokémon Legends: Arceus",
+      "canonical": "Légendes Pokémon : Arceus"
+    },
+    {
+      "title": "Kirby Super Star",
+      "canonical": "Kirby's Fun Pak"
+    },
+    {
+      "title": "Donkey Kong Country 2",
+      "canonical": "Donkey Kong Country 2: Diddy's Kong Quest"
+    },
+    {
+      "title": "Dragon Quest XI",
+      "canonical": "Dragon Quest XI : Les Combattants de la destinée"
+    },
+    {
+      "title": "Kingdom Hearts II",
+      "canonical": "Kingdom Hearts 2"
+    },
+    {
+      "title": "Doom II",
+      "canonical": "Doom II: Hell on Earth"
+    },
+    {
+      "title": "Command & Conquer",
+      "canonical": "Command and Conquer"
+    },
+    {
+      "title": "The Sims",
+      "canonical": "Les Sims"
+    },
+    {
+      "title": "The Sims 2",
+      "canonical": "Les Sims 2"
+    },
+    {
+      "title": "The Sims 3",
+      "canonical": "Les Sims 3"
+    },
+    {
+      "title": "Need for Speed: Most Wanted",
+      "canonical": "Need for Speed: Most Wanted (jeu vidéo, 2005)"
+    },
+    {
+      "title": "GameCube",
+      "canonical": "Nintendo GameCube"
+    },
+    {
+      "title": "Super Nintendo Entertainment System",
+      "canonical": "Super Nintendo"
+    },
+    {
+      "title": "Sega Genesis",
+      "canonical": "Mega Drive"
+    },
+    {
+      "title": "Indie game",
+      "canonical": "Jeu vidéo indépendant"
+    },
+    {
+      "title": "Game engine",
+      "canonical": "Moteur de jeu"
+    },
+    {
+      "title": "Unreal Engine 5",
+      "canonical": "Unreal Engine"
+    },
+    {
+      "title": "Machine learning",
+      "canonical": "Apprentissage automatique"
+    },
+    {
+      "title": "Cloud gaming",
+      "canonical": "Jeu à la demande"
+    },
+    {
+      "title": "LittleBigPlanet 2",
+      "canonical": "Little Big Planet 2"
+    },
+    {
+      "title": "Overcooked 2",
+      "canonical": "Overcooked! 2"
+    },
+    {
+      "title": "Plants vs. Zombies",
+      "canonical": "Plantes contre zombies"
+    },
+    {
+      "title": "Prince of Persia: The Sands of Time",
+      "canonical": "Prince of Persia : Les Sables du Temps"
+    },
+    {
+      "title": "Sly Cooper and the Thievius Raccoonus",
+      "canonical": "Sly Raccoon"
+    },
+    {
+      "title": "Soulcalibur II",
+      "canonical": "SoulCalibur II"
+    },
+    {
+      "title": "Star Fox 64",
+      "canonical": "Lylat Wars"
+    },
+    {
+      "title": "Xenoblade",
+      "canonical": "Xenoblade Chronicles"
+    },
+    {
+      "title": "Yakuza 0",
+      "canonical": "Yakuza Zero"
+    },
+    {
+      "title": "Zero Escape: Virtue's Last Reward",
+      "canonical": "Virtue's Last Reward"
+    },
+    {
+      "title": "Cosmic Encounter",
+      "canonical": "Rencontre cosmique (jeu)"
+    },
+    {
+      "title": "Arrival (film)",
+      "canonical": "Premier Contact (film)"
+    },
+    {
+      "title": "Finding Dory",
+      "canonical": "Le Monde de Dory"
+    },
+    {
+      "title": "Howl's Moving Castle (film)",
+      "canonical": "Le Château ambulant"
+    },
+    {
+      "title": "John Wick: Chapter 4",
+      "canonical": "John Wick : Chapitre 4"
+    },
+    {
+      "title": "Mean Girls",
+      "canonical": "Lolita malgré moi"
+    },
+    {
+      "title": "Monsters, Inc.",
+      "canonical": "Monstres et Cie"
+    },
+    {
+      "title": "Night at the Museum",
+      "canonical": "La Nuit au musée"
+    },
+    {
+      "title": "School of Rock",
+      "canonical": "Rock Academy"
+    },
+    {
+      "title": "Spirited Away",
+      "canonical": "Le Voyage de Chihiro"
+    },
+    {
+      "title": "The Batman (film)",
+      "canonical": "The Batman"
+    },
+    {
+      "title": "The Hunger Games (film)",
+      "canonical": "Hunger Games (film)"
+    },
+    {
+      "title": "The Lego Movie",
+      "canonical": "La Grande Aventure Lego"
+    },
+    {
+      "title": "The Martian (film)",
+      "canonical": "Seul sur Mars (film)"
+    },
+    {
+      "title": "Wreck-It Ralph",
+      "canonical": "Les Mondes de Ralph"
+    },
+    {
+      "title": "Buffy the Vampire Slayer",
+      "canonical": "Buffy contre les vampires"
+    },
+    {
+      "title": "It's Always Sunny in Philadelphia",
+      "canonical": "Philadelphia (série télévisée)"
+    },
+    {
+      "title": "Malcolm in the Middle",
+      "canonical": "Malcolm (série télévisée)"
+    },
+    {
+      "title": "Psych",
+      "canonical": "Psych : Enquêteur malgré lui"
+    },
+    {
+      "title": "The Haunting of Hill House",
+      "canonical": "Saison 1 de The Haunting"
+    },
+    {
+      "title": "The Owl House",
+      "canonical": "Luz à Osville"
+    },
+    {
+      "title": "X-Men '97",
+      "canonical": "X-Men ’97"
+    },
+    {
+      "title": "Dandadan",
+      "canonical": "DanDaDan"
+    },
+    {
+      "title": "Haikyu!!",
+      "canonical": "Haikyū!!"
+    },
+    {
+      "title": "Inuyasha",
+      "canonical": "Inu-Yasha"
+    },
+    {
+      "title": "One-Punch Man",
+      "canonical": "One Punch Man"
+    },
+    {
+      "title": "Parasyte",
+      "canonical": "Parasite (manga)"
+    },
+    {
+      "title": "Re:Zero",
+      "canonical": "Re:Zero − Re:vivre dans un autre monde à partir de zéro"
+    },
+    {
+      "title": "Samurai Champloo",
+      "canonical": "Samurai champloo"
+    },
+    {
+      "title": "Volleyball",
+      "canonical": "Volley-ball"
+    },
+    {
+      "title": "Rugby union",
+      "canonical": "Rugby à XV"
+    },
+    {
+      "title": "Boxing",
+      "canonical": "Boxe anglaise"
+    },
+    {
+      "title": "Mixed martial arts",
+      "canonical": "Arts martiaux mixtes"
+    },
+    {
+      "title": "Skiing",
+      "canonical": "US Ski Team Skiing"
+    },
+    {
+      "title": "World Series",
+      "canonical": "Série mondiale"
+    },
+    {
+      "title": "Galileo Galilei",
+      "canonical": "Galilée (savant)"
+    },
+    {
+      "title": "NASA",
+      "canonical": "National Aeronautics and Space Administration"
+    },
+    {
+      "title": "Computer science",
+      "canonical": "Informatique"
+    },
+    {
+      "title": "Python (programming language)",
+      "canonical": "Python (langage)"
+    },
+    {
+      "title": "Java (programming language)",
+      "canonical": "Java (langage)"
+    },
+    {
+      "title": "Email",
+      "canonical": "Courrier électronique"
+    },
+    {
+      "title": "Wireless network",
+      "canonical": "Réseau sans fil"
+    },
+    {
+      "title": "Laptop",
+      "canonical": "Ordinateur portable"
+    },
+    {
+      "title": "Desktop computer",
+      "canonical": "Ordinateur de bureau"
+    },
+    {
+      "title": "Graphics processing unit",
+      "canonical": "Processeur graphique"
+    },
+    {
+      "title": "Deep learning",
+      "canonical": "Apprentissage profond"
+    },
+    {
+      "title": "United Kingdom",
+      "canonical": "Royaume-Uni"
+    },
+    {
+      "title": "Italy",
+      "canonical": "My Last Duchess"
+    },
+    {
+      "title": "Yellowstone National Park",
+      "canonical": "Parc national de Yellowstone"
+    },
+    {
+      "title": "Great Barrier Reef",
+      "canonical": "Grande Barrière de corail"
+    },
+    {
+      "title": "Sicily",
+      "canonical": "Sicile"
+    },
+    {
+      "title": "Hawaii",
+      "canonical": "Hawaï"
+    },
+    {
+      "title": "Soup",
+      "canonical": "Soup.io"
+    },
+    {
+      "title": "French fries",
+      "canonical": "Frite"
+    },
+    {
+      "title": "Milkshake",
+      "canonical": "Milk-shake"
+    },
+    {
+      "title": "Divine Comedy",
+      "canonical": "The Divine Comedy"
+    },
+    {
+      "title": "Nineteen Eighty-Four",
+      "canonical": "1984 (roman)"
+    },
+    {
+      "title": "Animal Farm",
+      "canonical": "La Ferme des animaux"
+    },
+    {
+      "title": "Fyodor Dostoevsky",
+      "canonical": "Fiodor Dostoïevski"
+    },
+    {
+      "title": "Michelangelo",
+      "canonical": "Michel-Ange"
+    },
+    {
+      "title": "Girl with a Pearl Earring",
+      "canonical": "La Jeune Fille à la perle (film)"
+    },
+    {
+      "title": "Cyclopes",
+      "canonical": "Cyclope"
+    },
+    {
+      "title": "Apple Inc.",
+      "canonical": "Apple"
+    },
+    {
+      "title": "Rummy",
+      "canonical": "Rami"
+    },
+    {
+      "title": "Project Hail Mary (film)",
+      "canonical": "Projet Dernière Chance (film)"
+    },
+    {
+      "title": "The Boroughs",
+      "canonical": "The Boroughs : Retraite rebelle"
+    },
+    {
+      "title": "Princess Mononoke",
+      "canonical": "Princesse Mononoké"
+    },
+    {
+      "title": "The Boy and the Heron",
+      "canonical": "Le Garçon et le Héron"
+    },
+    {
+      "title": "My Neighbor Totoro",
+      "canonical": "Mon voisin Totoro"
+    },
+    {
+      "title": "Your Name",
+      "canonical": "Your Name."
+    },
+    {
+      "title": "Baki the Grappler",
+      "canonical": "Baki (manga)"
+    },
+    {
+      "title": "Boys' love",
+      "canonical": "Yaoi"
+    },
+    {
+      "title": "My Dress-Up Darling",
+      "canonical": "Sexy Cosplay Doll"
+    },
+    {
+      "title": "Ponyo",
+      "canonical": "Ponyo sur la falaise"
+    },
+    {
+      "title": "Estadio Azteca",
+      "canonical": "Stade Azteca"
+    },
+    {
+      "title": "French Open",
+      "canonical": "Internationaux de France de tennis"
+    },
+    {
+      "title": "EFL Championship",
+      "canonical": "Championnat d'Angleterre de football de deuxième division"
+    },
+    {
+      "title": "Estadio BBVA",
+      "canonical": "Stade BBVA"
+    },
+    {
+      "title": "Ligue 1",
+      "canonical": "Championnat de France de football"
+    },
+    {
+      "title": "Limonene",
+      "canonical": "Limonène"
+    },
+    {
+      "title": "Geheimrat Dr. Oldenburg",
+      "canonical": "Geheimrat Doktor Oldenburg"
+    },
+    {
+      "title": "Kimbal Musk",
+      "canonical": "Kimbal James Musk"
+    },
+    {
+      "title": "LVMH",
+      "canonical": "LVMH - Moët Hennessy Louis Vuitton"
+    },
+    {
+      "title": "Yevgeny Prigozhin",
+      "canonical": "Evgueni Prigojine"
+    },
+    {
+      "title": "Ranch dressing",
+      "canonical": "Sauce ranch"
+    },
+    {
+      "title": "Lychee",
+      "canonical": "Litchi"
+    },
+    {
+      "title": "KFC",
+      "canonical": "Kentucky Fried Chicken"
+    },
+    {
+      "title": "Ethanol",
+      "canonical": "Éthanol"
+    },
+    {
+      "title": "Tomato",
+      "canonical": "Tomato Records"
+    },
+    {
+      "title": "Yerba mate",
+      "canonical": "Ilex paraguariensis"
+    },
+    {
+      "title": "Avocado",
+      "canonical": "Avocat (fruit)"
+    },
+    {
+      "title": "Cassava",
+      "canonical": "888 Holdings"
+    },
+    {
+      "title": "Mars Inc.",
+      "canonical": "Mars (entreprise)"
+    },
+    {
+      "title": "Monosodium glutamate",
+      "canonical": "Glutamate monosodique"
+    },
+    {
+      "title": "Kefir",
+      "canonical": "Kéfir"
+    },
+    {
+      "title": "Red Bull GmbH",
+      "canonical": "Red Bull (entreprise)"
+    },
+    {
+      "title": "Salvia",
+      "canonical": "Sauge"
+    },
+    {
+      "title": "MasterChef Australia",
+      "canonical": "MasterChef (Australie)"
+    },
+    {
+      "title": "Shawarma",
+      "canonical": "Chawarma"
+    },
+    {
+      "title": "Horchata",
+      "canonical": "Horchata de chufa"
+    },
+    {
+      "title": "Peanut",
+      "canonical": "Arachide"
+    },
+    {
+      "title": "Christopher Columbus",
+      "canonical": "Christophe Colomb"
+    },
+    {
+      "title": "Marcus Aurelius",
+      "canonical": "Marc Aurèle"
+    },
+    {
+      "title": "Confederate States of America",
+      "canonical": "États confédérés d'Amérique"
+    },
+    {
+      "title": "East India Company",
+      "canonical": "Compagnie britannique des Indes orientales"
+    },
+    {
+      "title": "Jerusalem",
+      "canonical": "Jérusalem"
+    },
+    {
+      "title": "Socialism",
+      "canonical": "Socialisme"
+    },
+    {
+      "title": "British Raj",
+      "canonical": "Raj britannique"
+    },
+    {
+      "title": "Leonid Brezhnev",
+      "canonical": "Léonid Brejnev"
+    },
+    {
+      "title": "Communism",
+      "canonical": "Communisme"
+    },
+    {
+      "title": "Washington, D.C.",
+      "canonical": "Washington (district de Columbia)"
+    },
+    {
+      "title": "Generation Z",
+      "canonical": "Génération Z"
+    },
+    {
+      "title": "Mexico City",
+      "canonical": "Mexico"
+    },
+    {
+      "title": "Puerto Rico",
+      "canonical": "Porto Rico"
+    },
+    {
+      "title": "Millennials",
+      "canonical": "Génération Y"
+    },
+    {
+      "title": "Beijing",
+      "canonical": "Pékin"
+    },
+    {
+      "title": "QR code",
+      "canonical": "Code QR"
+    },
+    {
+      "title": "J. Robert Oppenheimer",
+      "canonical": "Robert Oppenheimer"
+    },
+    {
+      "title": "A. P. J. Abdul Kalam",
+      "canonical": "Avul Pakir Jainulabdeen Abdul Kalam"
+    },
+    {
+      "title": "Jacqueline Kennedy Onassis",
+      "canonical": "Jacqueline Kennedy-Onassis"
+    },
+    {
+      "title": "Klara and the Sun",
+      "canonical": "Klara et le Soleil (film)"
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "canonical": "Le Comte de Monte-Cristo"
+    },
+    {
+      "title": "Mount Rushmore",
+      "canonical": "Mont Rushmore"
+    },
+    {
+      "title": "House of Leaves",
+      "canonical": "Maison des Feuilles"
+    },
+    {
+      "title": "Loch Ness Monster",
+      "canonical": "Monstre du loch Ness"
+    },
+    {
+      "title": "Lady Godiva",
+      "canonical": "Godiva"
+    },
+    {
+      "title": "Kitsune",
+      "canonical": "Renard dans la culture japonaise"
+    },
+    {
+      "title": "Mothman",
+      "canonical": "Homme-papillon"
+    },
+    {
+      "title": "Mephistopheles",
+      "canonical": "Méphistophélès"
+    },
+    {
+      "title": "Cú Chulainn",
+      "canonical": "Cúchulainn"
+    },
+    {
+      "title": "Queen (band)",
+      "canonical": "Queen"
+    },
+    {
+      "title": "Nirvana (band)",
+      "canonical": "Nirvana (groupe)"
+    },
+    {
+      "title": "Hip hop",
+      "canonical": "Hip-hop"
+    },
+    {
+      "title": "Rock music",
+      "canonical": "Rock"
+    },
+    {
+      "title": "Pop music",
+      "canonical": "Pop (musique)"
+    },
+    {
+      "title": "Eurovision Song Contest",
+      "canonical": "Concours Eurovision de la chanson"
+    },
+    {
+      "title": "The Jackson 5",
+      "canonical": "The Jackson Five"
+    }
+  ],
+  "duplicates": {},
+  "all_ok": 832
+}

@@ -1,45 +1,313 @@
 {
-  "music_only": true,
-  "sources": [
-    {
-      "source": "Wikipedia:WikiProject Music/Popular pages",
-      "error": "Wikipedia:WikiProject Music/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-      "ok": false
+  "categories": {
+    "video_games": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Video games/Popular pages",
+          "error": "Wikipedia:WikiProject Video games/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 372,
+      "added": 0,
+      "after": 372,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
     },
-    {
-      "source": "Wikipedia:WikiProject Albums/Popular pages",
-      "rows": 500,
-      "ok": true
+    "board_games": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Board and table games/Popular pages",
+          "error": "Wikipedia:WikiProject Board and table games/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 101,
+      "added": 0,
+      "after": 101,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
     },
-    {
-      "source": "Wikipedia:WikiProject Songs/Popular pages",
-      "rows": 1000,
-      "ok": true
+    "movies": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Film/Popular pages",
+          "error": "Wikipedia:WikiProject Film/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 109,
+      "added": 0,
+      "after": 109,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
     },
-    {
-      "source": "Wikipedia:WikiProject Musicians/Popular pages",
-      "rows": 1000,
-      "ok": true
+    "tv_shows": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Television/Popular pages",
+          "error": "Wikipedia:WikiProject Television/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 132,
+      "added": 0,
+      "after": 132,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
+    },
+    "anime_manga": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Anime and manga/Popular pages",
+          "error": "Wikipedia:WikiProject Anime and manga/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 93,
+      "added": 0,
+      "after": 93,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
+    },
+    "sports": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Sports/Popular pages",
+          "error": "Wikipedia:WikiProject Sports/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 73,
+      "added": 0,
+      "after": 73,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
+    },
+    "food_cuisine": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Food and drink/Popular pages",
+          "error": "Wikipedia:WikiProject Food and drink/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 167,
+      "added": 0,
+      "after": 167,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
+    },
+    "history": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject History/Popular pages",
+          "error": "Wikipedia:WikiProject History/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 81,
+      "added": 0,
+      "after": 81,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
+    },
+    "geography": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Geography/Popular pages",
+          "error": "Wikipedia:WikiProject Geography/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 75,
+      "added": 0,
+      "after": 75,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
+    },
+    "technology": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Computing/Popular pages",
+          "error": "Wikipedia:WikiProject Computing/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        },
+        {
+          "source": "Wikipedia:WikiProject Internet/Popular pages",
+          "error": "Wikipedia:WikiProject Internet/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 73,
+      "added": 0,
+      "after": 73,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
+    },
+    "science_space": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Astronomy/Popular pages",
+          "error": "Wikipedia:WikiProject Astronomy/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        },
+        {
+          "source": "Wikipedia:WikiProject Physics/Popular pages",
+          "error": "Wikipedia:WikiProject Physics/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        },
+        {
+          "source": "Wikipedia:WikiProject Spaceflight/Popular pages",
+          "error": "Wikipedia:WikiProject Spaceflight/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 65,
+      "added": 0,
+      "after": 65,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
+    },
+    "art_literature": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Literature/Popular pages",
+          "error": "Wikipedia:WikiProject Literature/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        },
+        {
+          "source": "Wikipedia:WikiProject Novels/Popular pages",
+          "error": "Wikipedia:WikiProject Novels/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        },
+        {
+          "source": "Wikipedia:WikiProject Visual arts/Popular pages",
+          "error": "Wikipedia:WikiProject Visual arts/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 97,
+      "added": 0,
+      "after": 97,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
+    },
+    "mythology_folklore": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Folklore/Popular pages",
+          "error": "Wikipedia:WikiProject Folklore/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 106,
+      "added": 0,
+      "after": 106,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
+    },
+    "music": {
+      "sources": [
+        {
+          "source": "Wikipedia:WikiProject Musicians/Popular pages",
+          "error": "Wikipedia:WikiProject Musicians/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        },
+        {
+          "source": "Wikipedia:WikiProject Albums/Popular pages",
+          "error": "Wikipedia:WikiProject Albums/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        },
+        {
+          "source": "Wikipedia:WikiProject Songs/Popular pages",
+          "error": "Wikipedia:WikiProject Songs/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
+          "rows": 0
+        }
+      ],
+      "merged_rows": 0,
+      "top10": [],
+      "tenth_daily": null,
+      "floor_daily": Infinity,
+      "before": 97,
+      "added": 0,
+      "after": 97,
+      "skipped": {},
+      "added_titles": [],
+      "last_added": null
     }
-  ],
-  "worked": [
-    "Wikipedia:WikiProject Albums/Popular pages",
-    "Wikipedia:WikiProject Songs/Popular pages",
-    "Wikipedia:WikiProject Musicians/Popular pages"
-  ],
-  "failed": [
-    {
-      "source": "Wikipedia:WikiProject Music/Popular pages",
-      "error": "Wikipedia:WikiProject Music/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}"
-    }
-  ],
-  "merged_rows": 2496,
-  "tenth_daily": 22768,
-  "floor_daily": 9107.2,
-  "music_before": 42,
-  "added_from_popular": 55,
-  "ensure_seed_in_pool": 38,
-  "music_after": 97,
+  },
+  "added_total": 0,
+  "rules": {
+    "max_per_category": 500,
+    "floor": "0.4 * daily_avg of the 10th-ranked Popular pages entry",
+    "floor_fraction": 0.4
+  },
   "pool_size": 1641,
   "usable": 1587,
   "range_end": 793,
@@ -59,36 +327,20 @@
     "art_literature": 97,
     "music": 97
   },
-  "added_titles_sample": [
-    "Oliver Tree",
-    "Anne Hathaway",
-    "Dua Lipa",
-    "Zendaya",
-    "Shakira",
-    "Olivia Rodrigo",
-    "Jaafar Jackson",
-    "Joe Jackson (talent manager)",
-    "Tay Keith",
-    "Nicholas Galitzine",
-    "Jennifer Lopez",
-    "Peabo Bryson",
-    "Michael Johnston (actor)",
-    "Zara Larsson",
-    "Marilyn Monroe",
-    "Alan Greenspan",
-    "Clint Eastwood",
-    "Jermaine Jackson",
-    "Lisa Marie Presley",
-    "Katy Perry",
-    "Ella Langley",
-    "Kim Kardashian",
-    "Freddie Mercury",
-    "Jackson family",
-    "Keke Palmer",
-    "Mel Brooks",
-    "Shaquille O'Neal",
-    "Paul McCartney",
-    "Keanu Reeves",
-    "XXXTentacion"
-  ]
+  "before_counts": {
+    "video_games": 372,
+    "sports": 73,
+    "board_games": 101,
+    "movies": 109,
+    "tv_shows": 132,
+    "anime_manga": 93,
+    "science_space": 65,
+    "technology": 73,
+    "history": 81,
+    "geography": 75,
+    "food_cuisine": 167,
+    "mythology_folklore": 106,
+    "art_literature": 97,
+    "music": 97
+  }
 }

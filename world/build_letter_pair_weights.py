@@ -2,7 +2,7 @@
 """Build letter-pair frequency weights from an English Wikipedia title dump.
 
 Source dump (mainspace titles, includes redirects):
-  https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-all-titles-in-ns0.gz
+  https://dumps.wikimedia.org/frwiki/latest/frwiki-latest-all-titles-in-ns0.gz
 
 Letter-pair rule (must match in-game bingo stamping):
   Scan the title left-to-right for A-Z letters only; take the first two.
@@ -14,7 +14,7 @@ Usage:
   python world/build_letter_pair_weights.py
 
   # Use an already-downloaded dump:
-  python world/build_letter_pair_weights.py --dump path/to/enwiki-latest-all-titles-in-ns0.gz
+  python world/build_letter_pair_weights.py --dump path/to/frwiki-latest-all-titles-in-ns0.gz
 
   # Skip download; fail if dump missing:
   python world/build_letter_pair_weights.py --no-download
@@ -32,9 +32,9 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-DEFAULT_DUMP = ROOT / "_cache" / "enwiki-latest-all-titles-in-ns0.gz"
+DEFAULT_DUMP = ROOT / "_cache" / "frwiki-latest-all-titles-in-ns0.gz"
 DEFAULT_OUT = ROOT / "APWorldSource" / "Wikipelago" / "letter_pair_weights.json"
-DUMP_URL = "https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-all-titles-in-ns0.gz"
+DUMP_URL = "https://dumps.wikimedia.org/frwiki/latest/frwiki-latest-all-titles-in-ns0.gz"
 USER_AGENT = "WikipelagoLetterPairWeights/1.0 (https://github.com/Dreskn/Wikipelago-Continued)"
 
 ALL_PAIRS = [a + b for a in string.ascii_uppercase for b in string.ascii_uppercase]
@@ -107,7 +107,7 @@ def main() -> int:
         "--dump",
         type=Path,
         default=DEFAULT_DUMP,
-        help=f"Path to enwiki-*-all-titles-in-ns0.gz (default: {DEFAULT_DUMP})",
+        help=f"Path to frwiki-*-all-titles-in-ns0.gz (default: {DEFAULT_DUMP})",
     )
     parser.add_argument(
         "--out",
