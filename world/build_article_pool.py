@@ -8,7 +8,7 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
-API = "https://en.wikipedia.org/w/api.php"
+API = "https://fr.wikipedia.org/w/api.php"
 ROOT = Path(__file__).resolve().parent / "APWorldSource" / "Wikipelago"
 OUT_PATH = ROOT / "article_pool.json"
 STATE_PATH = ROOT / "article_pool_state.json"

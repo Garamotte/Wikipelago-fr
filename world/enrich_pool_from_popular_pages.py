@@ -26,7 +26,7 @@ POOL_PATH = ROOT / "APWorldSource" / "Wikipelago" / "entertainment_articles.py"
 OPTIONS_PATH = ROOT / "APWorldSource" / "Wikipelago" / "Options.py"
 REPORT_PATH = ROOT / "pool_enrichment_report.json"
 
-API = "https://en.wikipedia.org/w/api.php"
+API = "https://fr.wikipedia.org/w/api.php"
 UA = "WikipelagoPoolEnricher/1.0 (https://github.com/Dreskn/Wikipelago-Continued)"
 MAX_PER_CATEGORY = 500
 TOP_N_FOR_FLOOR = 10

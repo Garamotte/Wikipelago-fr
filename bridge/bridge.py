@@ -1417,7 +1417,7 @@ class APConnection:
             if plcontinue:
                 params["plcontinue"] = plcontinue
 
-            url = "https://en.wikipedia.org/w/api.php?" + urllib.parse.urlencode(params)
+            url = "https://fr.wikipedia.org/w/api.php?" + urllib.parse.urlencode(params)
             req = urllib.request.Request(
                 url,
                 headers={
@@ -1469,7 +1469,7 @@ class APConnection:
             "redirects": "1",
             "format": "json",
         }
-        url = "https://en.wikipedia.org/w/api.php?" + urllib.parse.urlencode(params)
+        url = "https://fr.wikipedia.org/w/api.php?" + urllib.parse.urlencode(params)
         req = urllib.request.Request(
             url,
             headers={

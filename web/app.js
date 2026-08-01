@@ -332,7 +332,7 @@ async function fetchTargetSummary(title) {
   if (!key || key === "..." || key === "goal complete") return "";
   if (state.targetSummaryCache.has(key)) return state.targetSummaryCache.get(key);
 
-  const url = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title.replace(/ /g, "_"))}`;
+  const url = `https://fr.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title.replace(/ /g, "_"))}`;
   const res = await fetch(url, { headers: { Accept: "application/json" } });
   if (!res.ok) throw new Error(`summary HTTP ${res.status}`);
   const data = await res.json();
@@ -472,7 +472,7 @@ function titlesMatch(a, b) {
 }
 
 async function fetchRandomWikiTitle() {
-  const url = "https://en.wikipedia.org/w/api.php?action=query&list=random&rnnamespace=0&rnlimit=1&format=json&origin=*";
+  const url = "https://fr.wikipedia.org/w/api.php?action=query&list=random&rnnamespace=0&rnlimit=1&format=json&origin=*";
   const res = await fetch(url);
   const data = await res.json();
   const title = data?.query?.random?.[0]?.title;
@@ -2150,7 +2150,7 @@ function rewriteLinks(root) {
 }
 
 async function fetchWikiHtml(title) {
-  const url = `https://en.wikipedia.org/w/api.php?action=parse&page=${encodeURIComponent(title)}&prop=text&formatversion=2&format=json&origin=*`;
+  const url = `https://fr.wikipedia.org/w/api.php?action=parse&page=${encodeURIComponent(title)}&prop=text&formatversion=2&format=json&origin=*`;
   const res = await fetch(url);
   const data = await res.json();
   if (!data.parse || !data.parse.text) throw new Error("Article unavailable");

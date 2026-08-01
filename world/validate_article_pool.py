@@ -19,7 +19,7 @@ sys.path.insert(0, str(APWORLD))
 
 from entertainment_articles import ENTERTAINMENT_ARTICLE_POOL  # noqa: E402
 
-API_URL = "https://en.wikipedia.org/w/api.php"
+API_URL = "https://fr.wikipedia.org/w/api.php"
 USER_AGENT = "WikipelagoPoolValidator/1.0 (https://github.com/Dreskn/Wikipelago-Continued)"
 BATCH_SIZE = 50
 SLEEP_SECONDS = 0.1
