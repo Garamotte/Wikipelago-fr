@@ -3,344 +3,1008 @@
     "video_games": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject Video games/Popular pages",
-          "error": "Wikipedia:WikiProject Video games/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Jeu_vidéo/Pages_populaires",
+          "rows": 500
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
-      "before": 372,
-      "added": 0,
-      "after": 372,
-      "skipped": {},
-      "added_titles": [],
-      "last_added": null
-    },
-    "board_games": {
-      "sources": [
+      "merged_rows": 500,
+      "top10": [
         {
-          "source": "Wikipedia:WikiProject Board and table games/Popular pages",
-          "error": "Wikipedia:WikiProject Board and table games/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "title": "Elliot Page",
+          "daily": 4715
+        },
+        {
+          "title": "Jon Bernthal",
+          "daily": 1674
+        },
+        {
+          "title": "Grand Theft Auto V",
+          "daily": 1299
+        },
+        {
+          "title": "Assassin's Creed",
+          "daily": 947
+        },
+        {
+          "title": "Hayden Panettiere",
+          "daily": 927
+        },
+        {
+          "title": "IShowSpeed",
+          "daily": 914
+        },
+        {
+          "title": "Call of Duty",
+          "daily": 806
+        },
+        {
+          "title": "Intelligence artificielle",
+          "daily": 771
+        },
+        {
+          "title": "Minka Kelly",
+          "daily": 748
+        },
+        {
+          "title": "Grand Theft Auto VI",
+          "daily": 727
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
-      "before": 101,
+      "tenth_daily": 727,
+      "floor_daily": 290.8,
+      "before": 425,
       "added": 0,
-      "after": 101,
-      "skipped": {},
+      "after": 425,
+      "skipped": {
+        "already_in_pool": 66,
+        "skip_filters": 4,
+        "below_floor": 430
+      },
       "added_titles": [],
       "last_added": null
     },
     "movies": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject Film/Popular pages",
-          "error": "Wikipedia:WikiProject Film/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Cinéma/Pages_populaires",
+          "rows": 2000
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
+      "merged_rows": 2000,
+      "top10": [
+        {
+          "title": "L'Odyssée (film, 2026)",
+          "daily": 19657
+        },
+        {
+          "title": "Sam Neill",
+          "daily": 9328
+        },
+        {
+          "title": "Christopher Nolan",
+          "daily": 8340
+        },
+        {
+          "title": "Ester Expósito",
+          "daily": 7303
+        },
+        {
+          "title": "La Bataille de Gaulle",
+          "daily": 6515
+        },
+        {
+          "title": "Zendaya",
+          "daily": 5540
+        },
+        {
+          "title": "Tom Holland (acteur)",
+          "daily": 5020
+        },
+        {
+          "title": "Anne Hathaway",
+          "daily": 4946
+        },
+        {
+          "title": "Elliot Page",
+          "daily": 4715
+        },
+        {
+          "title": "IMAX",
+          "daily": 4087
+        }
+      ],
+      "tenth_daily": 4087,
+      "floor_daily": 1634.8,
       "before": 109,
-      "added": 0,
-      "after": 109,
-      "skipped": {},
-      "added_titles": [],
-      "last_added": null
+      "added": 42,
+      "after": 151,
+      "skipped": {
+        "skip_filters": 6,
+        "already_in_pool": 12,
+        "below_floor": 1938,
+        "disambiguation": 2
+      },
+      "added_titles": [
+        "Christopher Nolan",
+        "Ester Expósito",
+        "Tom Holland (acteur)",
+        "IMAX",
+        "Les Trois Mousquetaires : D'Artagnan",
+        "Matt Damon",
+        "Tomer Sisley",
+        "XXX (film)",
+        "Marc Messier",
+        "Penélope Cruz",
+        "Troie (film)",
+        "Javier Bardem",
+        "Timothée Chalamet",
+        "Les Trois Mousquetaires : Milady",
+        "Kaylee Hottle",
+        "Simon Abkarian",
+        "Patrick Dewaere",
+        "La mariée était en noir (film)",
+        "Charlize Theron",
+        "Evil Dead Burn",
+        "Eva Green",
+        "Millie Bobby Brown",
+        "Spider-Man (série de films)",
+        "Le Boucher",
+        "Avengers: Doomsday",
+        "Lupita Nyong'o",
+        "Brad Pitt",
+        "Mortelle Randonnée (film)",
+        "Lyna Khoudri",
+        "Bruce Willis",
+        "Backrooms",
+        "Benny Safdie",
+        "Catherine Davydzenka",
+        "Jean-Marie Bigard",
+        "John Travolta",
+        "Nastassja Kinski",
+        "Soudain seuls",
+        "La nuit nous appartient",
+        "Stéphane Audran",
+        "Robert Pattinson",
+        "Tom Cruise",
+        "Disclosure Day"
+      ],
+      "last_added": [
+        "Disclosure Day",
+        "movies"
+      ]
     },
     "tv_shows": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject Television/Popular pages",
-          "error": "Wikipedia:WikiProject Television/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Séries_télévisées/Pages_populaires",
+          "rows": 500
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
-      "before": 132,
+      "merged_rows": 500,
+      "top10": [
+        {
+          "title": "Sam Neill",
+          "daily": 9328
+        },
+        {
+          "title": "Zendaya",
+          "daily": 5540
+        },
+        {
+          "title": "Zodiaque (mini-série, 2026)",
+          "daily": 4642
+        },
+        {
+          "title": "GIGN (mini-série)",
+          "daily": 3982
+        },
+        {
+          "title": "House of the Dragon",
+          "daily": 2770
+        },
+        {
+          "title": "Inde Navarrette",
+          "daily": 2512
+        },
+        {
+          "title": "La Petite Maison dans la prairie",
+          "daily": 2477
+        },
+        {
+          "title": "The Handmaid's Tale : La Servante écarlate",
+          "daily": 2352
+        },
+        {
+          "title": "Saison 3 de House of the Dragon",
+          "daily": 2146
+        },
+        {
+          "title": "Silo (série télévisée)",
+          "daily": 2052
+        }
+      ],
+      "tenth_daily": 2052,
+      "floor_daily": 820.8,
+      "before": 173,
       "added": 0,
-      "after": 132,
-      "skipped": {},
+      "after": 173,
+      "skipped": {
+        "already_in_pool": 49,
+        "skip_filters": 9,
+        "below_floor": 442
+      },
+      "added_titles": [],
+      "last_added": null
+    },
+    "tv_games": {
+      "sources": [
+        {
+          "source": "Projet:Jeux_télévisés/Pages_populaires",
+          "rows": 500
+        }
+      ],
+      "merged_rows": 500,
+      "top10": [
+        {
+          "title": "Saison 14 de Secret Story",
+          "daily": 3320
+        },
+        {
+          "title": "Fort Boyard (jeu télévisé)",
+          "daily": 1792
+        },
+        {
+          "title": "Cyril Féraud",
+          "daily": 1733
+        },
+        {
+          "title": "N'oubliez pas les paroles !",
+          "daily": 1704
+        },
+        {
+          "title": "Secret Story",
+          "daily": 1251
+        },
+        {
+          "title": "Les Traîtres",
+          "daily": 1171
+        },
+        {
+          "title": "Tout le monde veut prendre sa place",
+          "daily": 1107
+        },
+        {
+          "title": "Nagui",
+          "daily": 999
+        },
+        {
+          "title": "Les Douze Coups de midi",
+          "daily": 876
+        },
+        {
+          "title": "Saison 13 de Secret Story",
+          "daily": 752
+        }
+      ],
+      "tenth_daily": 752,
+      "floor_daily": 300.8,
+      "before": 19,
+      "added": 0,
+      "after": 19,
+      "skipped": {
+        "already_in_pool": 19,
+        "skip_filters": 3,
+        "below_floor": 478
+      },
       "added_titles": [],
       "last_added": null
     },
     "anime_manga": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject Anime and manga/Popular pages",
-          "error": "Wikipedia:WikiProject Anime and manga/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Animation/Pages_populaires",
+          "rows": 500
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
-      "before": 93,
+      "merged_rows": 500,
+      "top10": [
+        {
+          "title": "Avatar, le dernier maître de l'air",
+          "daily": 1296
+        },
+        {
+          "title": "Toy Story 4",
+          "daily": 1234
+        },
+        {
+          "title": "Liste des longs métrages d'animation produits par les studios Disney",
+          "daily": 1087
+        },
+        {
+          "title": "Toy Story 5",
+          "daily": 975
+        },
+        {
+          "title": "Jim Queen",
+          "daily": 960
+        },
+        {
+          "title": "Toy Story",
+          "daily": 906
+        },
+        {
+          "title": "In Waves (film)",
+          "daily": 729
+        },
+        {
+          "title": "Vaiana : La Légende du bout du monde",
+          "daily": 687
+        },
+        {
+          "title": "Des Minions et des monstres",
+          "daily": 670
+        },
+        {
+          "title": "Les Minions",
+          "daily": 593
+        }
+      ],
+      "tenth_daily": 593,
+      "floor_daily": 237.2,
+      "before": 133,
       "added": 0,
-      "after": 93,
-      "skipped": {},
+      "after": 133,
+      "skipped": {
+        "already_in_pool": 54,
+        "skip_filters": 9,
+        "below_floor": 437
+      },
       "added_titles": [],
       "last_added": null
     },
     "sports": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject Sports/Popular pages",
-          "error": "Wikipedia:WikiProject Sports/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Sport/Pages_populaires",
+          "rows": 5000
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
-      "before": 73,
+      "merged_rows": 5000,
+      "top10": [
+        {
+          "title": "Lamine Yamal",
+          "daily": 35331
+        },
+        {
+          "title": "Coupe du monde de football 2026",
+          "daily": 29921
+        },
+        {
+          "title": "Kylian Mbappé",
+          "daily": 27655
+        },
+        {
+          "title": "Lionel Messi",
+          "daily": 27151
+        },
+        {
+          "title": "Michael Olise",
+          "daily": 25218
+        },
+        {
+          "title": "Coupe du monde de football",
+          "daily": 21601
+        },
+        {
+          "title": "Gianni Infantino",
+          "daily": 20107
+        },
+        {
+          "title": "Erling Haaland",
+          "daily": 19848
+        },
+        {
+          "title": "Liste des buteurs de la Coupe du monde de football",
+          "daily": 18223
+        },
+        {
+          "title": "Zinédine Zidane",
+          "daily": 17172
+        }
+      ],
+      "tenth_daily": 17172,
+      "floor_daily": 6868.8,
+      "before": 94,
       "added": 0,
-      "after": 73,
-      "skipped": {},
+      "after": 94,
+      "skipped": {
+        "already_in_pool": 21,
+        "skip_filters": 6,
+        "below_floor": 4973
+      },
       "added_titles": [],
       "last_added": null
     },
     "food_cuisine": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject Food and drink/Popular pages",
-          "error": "Wikipedia:WikiProject Food and drink/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Alimentation_et_gastronomie/Pages_populaires",
+          "rows": 1500
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
-      "before": 167,
+      "merged_rows": 1500,
+      "top10": [
+        {
+          "title": "Yannick Alléno",
+          "daily": 1514
+        },
+        {
+          "title": "Philippe Etchebest",
+          "daily": 864
+        },
+        {
+          "title": "Julie Andrieu",
+          "daily": 819
+        },
+        {
+          "title": "Chimichurri",
+          "daily": 797
+        },
+        {
+          "title": "Chakchouka",
+          "daily": 589
+        },
+        {
+          "title": "Kéfir",
+          "daily": 584
+        },
+        {
+          "title": "Kombucha",
+          "daily": 557
+        },
+        {
+          "title": "Matcha",
+          "daily": 544
+        },
+        {
+          "title": "Cyril Lignac",
+          "daily": 535
+        },
+        {
+          "title": "Zaatar",
+          "daily": 524
+        }
+      ],
+      "tenth_daily": 524,
+      "floor_daily": 209.6,
+      "before": 266,
       "added": 0,
-      "after": 167,
-      "skipped": {},
+      "after": 266,
+      "skipped": {
+        "already_in_pool": 113,
+        "below_floor": 1387
+      },
       "added_titles": [],
       "last_added": null
     },
     "history": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject History/Popular pages",
-          "error": "Wikipedia:WikiProject History/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Histoire/Pages_populaires",
+          "rows": 1000
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
-      "before": 81,
+      "merged_rows": 1000,
+      "top10": [
+        {
+          "title": "Charles de Gaulle",
+          "daily": 5197
+        },
+        {
+          "title": "Napoléon Ier",
+          "daily": 2541
+        },
+        {
+          "title": "Louis XIV",
+          "daily": 1944
+        },
+        {
+          "title": "Maria Carolina de Bourbon des Deux-Siciles",
+          "daily": 1663
+        },
+        {
+          "title": "Philippe Pétain",
+          "daily": 1617
+        },
+        {
+          "title": "Jeanne d'Arc",
+          "daily": 1476
+        },
+        {
+          "title": "Franklin Delano Roosevelt",
+          "daily": 1472
+        },
+        {
+          "title": "Adolf Hitler",
+          "daily": 1409
+        },
+        {
+          "title": "Seconde Guerre mondiale",
+          "daily": 1279
+        },
+        {
+          "title": "Winston Churchill",
+          "daily": 1197
+        }
+      ],
+      "tenth_daily": 1197,
+      "floor_daily": 478.8,
+      "before": 145,
       "added": 0,
-      "after": 81,
-      "skipped": {},
+      "after": 145,
+      "skipped": {
+        "already_in_pool": 64,
+        "skip_filters": 10,
+        "below_floor": 926
+      },
       "added_titles": [],
       "last_added": null
     },
     "geography": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject Geography/Popular pages",
-          "error": "Wikipedia:WikiProject Geography/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Géographie/Pages_populaires",
+          "rows": 1000
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
-      "before": 75,
+      "merged_rows": 1000,
+      "top10": [
+        {
+          "title": "Département français",
+          "daily": 2076
+        },
+        {
+          "title": "Gironde (département)",
+          "daily": 1750
+        },
+        {
+          "title": "Liste des communes de France les plus peuplées",
+          "daily": 1468
+        },
+        {
+          "title": "Liste des capitales du monde",
+          "daily": 1373
+        },
+        {
+          "title": "Liste des pays du monde",
+          "daily": 1351
+        },
+        {
+          "title": "Île Maurice",
+          "daily": 1293
+        },
+        {
+          "title": "Seconde Guerre mondiale",
+          "daily": 1279
+        },
+        {
+          "title": "Mont Rushmore",
+          "daily": 1199
+        },
+        {
+          "title": "Liste des pays et territoires par superficie",
+          "daily": 1183
+        },
+        {
+          "title": "Var (département)",
+          "daily": 1138
+        }
+      ],
+      "tenth_daily": 1138,
+      "floor_daily": 455.2,
+      "before": 121,
       "added": 0,
-      "after": 75,
-      "skipped": {},
+      "after": 121,
+      "skipped": {
+        "already_in_pool": 50,
+        "skip_filters": 4,
+        "below_floor": 946
+      },
       "added_titles": [],
       "last_added": null
     },
     "technology": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject Computing/Popular pages",
-          "error": "Wikipedia:WikiProject Computing/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
-        },
-        {
-          "source": "Wikipedia:WikiProject Internet/Popular pages",
-          "error": "Wikipedia:WikiProject Internet/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Informatique/Pages_populaires",
+          "rows": 500
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
-      "before": 73,
+      "merged_rows": 500,
+      "top10": [
+        {
+          "title": "Cookie (informatique)",
+          "daily": 412034
+        },
+        {
+          "title": "ChatGPT",
+          "daily": 4037
+        },
+        {
+          "title": "Google",
+          "daily": 2004
+        },
+        {
+          "title": "WhatsApp",
+          "daily": 1885
+        },
+        {
+          "title": "Gmail",
+          "daily": 1514
+        },
+        {
+          "title": "Intelligence artificielle",
+          "daily": 771
+        },
+        {
+          "title": "Wiki",
+          "daily": 765
+        },
+        {
+          "title": "Waze",
+          "daily": 720
+        },
+        {
+          "title": "Erreur HTTP 404",
+          "daily": 715
+        },
+        {
+          "title": "Steve Jobs",
+          "daily": 554
+        }
+      ],
+      "tenth_daily": 554,
+      "floor_daily": 221.6,
+      "before": 107,
       "added": 0,
-      "after": 73,
-      "skipped": {},
+      "after": 107,
+      "skipped": {
+        "already_in_pool": 52,
+        "skip_filters": 3,
+        "below_floor": 445
+      },
       "added_titles": [],
       "last_added": null
     },
     "science_space": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject Astronomy/Popular pages",
-          "error": "Wikipedia:WikiProject Astronomy/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Astronomie/Pages_populaires",
+          "rows": 500
         },
         {
-          "source": "Wikipedia:WikiProject Physics/Popular pages",
-          "error": "Wikipedia:WikiProject Physics/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
-        },
-        {
-          "source": "Wikipedia:WikiProject Spaceflight/Popular pages",
-          "error": "Wikipedia:WikiProject Spaceflight/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Physique/Pages_populaires",
+          "rows": 500
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
-      "before": 65,
+      "merged_rows": 948,
+      "top10": [
+        {
+          "title": "Éclipse solaire du 12 août 2026",
+          "daily": 7450
+        },
+        {
+          "title": "Interstellar",
+          "daily": 1421
+        },
+        {
+          "title": "Marie Curie",
+          "daily": 1232
+        },
+        {
+          "title": "Albert Einstein",
+          "daily": 842
+        },
+        {
+          "title": "Éclipse solaire du 2 août 2027",
+          "daily": 840
+        },
+        {
+          "title": "Liste d'éclipses solaires",
+          "daily": 809
+        },
+        {
+          "title": "Nikola Tesla",
+          "daily": 624
+        },
+        {
+          "title": "Apollo 11",
+          "daily": 593
+        },
+        {
+          "title": "Robert Oppenheimer",
+          "daily": 572
+        },
+        {
+          "title": "Éclipse solaire",
+          "daily": 544
+        }
+      ],
+      "tenth_daily": 544,
+      "floor_daily": 217.6,
+      "before": 105,
       "added": 0,
-      "after": 65,
-      "skipped": {},
+      "after": 105,
+      "skipped": {
+        "skip_filters": 4,
+        "already_in_pool": 47,
+        "below_floor": 897
+      },
       "added_titles": [],
       "last_added": null
     },
     "art_literature": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject Literature/Popular pages",
-          "error": "Wikipedia:WikiProject Literature/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
-        },
-        {
-          "source": "Wikipedia:WikiProject Novels/Popular pages",
-          "error": "Wikipedia:WikiProject Novels/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
-        },
-        {
-          "source": "Wikipedia:WikiProject Visual arts/Popular pages",
-          "error": "Wikipedia:WikiProject Visual arts/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Littérature/Pages_populaires",
+          "rows": 1000
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
-      "before": 97,
+      "merged_rows": 1000,
+      "top10": [
+        {
+          "title": "Odyssée",
+          "daily": 14022
+        },
+        {
+          "title": "Sophie Brocas",
+          "daily": 3835
+        },
+        {
+          "title": "Iliade",
+          "daily": 3732
+        },
+        {
+          "title": "Hélène (mythologie)",
+          "daily": 3282
+        },
+        {
+          "title": "Françoise Mallet-Joris",
+          "daily": 2640
+        },
+        {
+          "title": "Homère",
+          "daily": 2551
+        },
+        {
+          "title": "La Servante écarlate",
+          "daily": 1820
+        },
+        {
+          "title": "Laura Ingalls Wilder",
+          "daily": 1649
+        },
+        {
+          "title": "Les Trois Mousquetaires",
+          "daily": 1477
+        },
+        {
+          "title": "Alexandre Dumas",
+          "daily": 1403
+        }
+      ],
+      "tenth_daily": 1403,
+      "floor_daily": 561.2,
+      "before": 145,
       "added": 0,
-      "after": 97,
-      "skipped": {},
+      "after": 145,
+      "skipped": {
+        "already_in_pool": 52,
+        "skip_filters": 2,
+        "below_floor": 946
+      },
       "added_titles": [],
       "last_added": null
     },
     "mythology_folklore": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject Folklore/Popular pages",
-          "error": "Wikipedia:WikiProject Folklore/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Mythologie_grecque/Pages_populaires",
+          "rows": 500
+        },
+        {
+          "source": "Projet:Mythologie_romaine/Pages_populaires",
+          "rows": 474
+        },
+        {
+          "source": "Projet:Mythologie_nordique/Pages_populaires",
+          "rows": 500
+        },
+        {
+          "source": "Projet:Créatures_légendaires/Pages_populaires",
+          "rows": 500
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
+      "merged_rows": 1866,
+      "top10": [
+        {
+          "title": "L'Odyssée (film, 2026)",
+          "daily": 19657
+        },
+        {
+          "title": "Odyssée",
+          "daily": 14022
+        },
+        {
+          "title": "Ulysse",
+          "daily": 6984
+        },
+        {
+          "title": "Guerre de Troie",
+          "daily": 4354
+        },
+        {
+          "title": "Iliade",
+          "daily": 3732
+        },
+        {
+          "title": "Agamemnon",
+          "daily": 3702
+        },
+        {
+          "title": "Calypso",
+          "daily": 3629
+        },
+        {
+          "title": "Circé",
+          "daily": 3563
+        },
+        {
+          "title": "Hélène (mythologie)",
+          "daily": 3282
+        },
+        {
+          "title": "Lestrygons",
+          "daily": 2993
+        }
+      ],
+      "tenth_daily": 2993,
+      "floor_daily": 1197.2,
       "before": 106,
-      "added": 0,
-      "after": 106,
-      "skipped": {},
-      "added_titles": [],
-      "last_added": null
+      "added": 15,
+      "after": 121,
+      "skipped": {
+        "skip_filters": 1,
+        "already_in_pool": 4,
+        "below_floor": 1846
+      },
+      "added_titles": [
+        "Ulysse",
+        "Guerre de Troie",
+        "Agamemnon",
+        "Calypso",
+        "Circé",
+        "Lestrygons",
+        "Troie",
+        "Achille",
+        "Télémaque",
+        "Sinon",
+        "Ménélas",
+        "Clytemnestre",
+        "Cheval de Troie",
+        "Nausicaa",
+        "Polyphème"
+      ],
+      "last_added": [
+        "Polyphème",
+        "mythology_folklore"
+      ]
     },
     "music": {
       "sources": [
         {
-          "source": "Wikipedia:WikiProject Musicians/Popular pages",
-          "error": "Wikipedia:WikiProject Musicians/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
-        },
-        {
-          "source": "Wikipedia:WikiProject Albums/Popular pages",
-          "error": "Wikipedia:WikiProject Albums/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
-        },
-        {
-          "source": "Wikipedia:WikiProject Songs/Popular pages",
-          "error": "Wikipedia:WikiProject Songs/Popular pages: {'code': 'missingtitle', 'info': \"The page you specified doesn't exist.\", '*': 'See https://fr.wikipedia.org/w/api.php for API usage. Subscribe to the mediawiki-api-announce mailing list at &lt;https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/&gt; for notice of API deprecations and breaking changes.'}",
-          "rows": 0
+          "source": "Projet:Musique/Pages_populaires",
+          "rows": 1000
         }
       ],
-      "merged_rows": 0,
-      "top10": [],
-      "tenth_daily": null,
-      "floor_daily": Infinity,
-      "before": 97,
+      "merged_rows": 1000,
+      "top10": [
+        {
+          "title": "Kavinsky",
+          "daily": 13315
+        },
+        {
+          "title": "Bonnie Tyler",
+          "daily": 11297
+        },
+        {
+          "title": "Shakira",
+          "daily": 10108
+        },
+        {
+          "title": "Barbara Butch",
+          "daily": 9910
+        },
+        {
+          "title": "YouTube",
+          "daily": 7623
+        },
+        {
+          "title": "Marie-Paule Belle",
+          "daily": 7497
+        },
+        {
+          "title": "Michael Jackson",
+          "daily": 3783
+        },
+        {
+          "title": "Bad Bunny",
+          "daily": 2942
+        },
+        {
+          "title": "BTS (groupe)",
+          "daily": 2683
+        },
+        {
+          "title": "Madonna",
+          "daily": 2632
+        }
+      ],
+      "tenth_daily": 2632,
+      "floor_daily": 1052.8,
+      "before": 151,
       "added": 0,
-      "after": 97,
-      "skipped": {},
+      "after": 151,
+      "skipped": {
+        "already_in_pool": 66,
+        "skip_filters": 1,
+        "below_floor": 933
+      },
       "added_titles": [],
       "last_added": null
     }
   },
-  "added_total": 0,
+  "added_total": 57,
   "rules": {
     "max_per_category": 500,
     "floor": "0.4 * daily_avg of the 10th-ranked Popular pages entry",
     "floor_fraction": 0.4
   },
-  "pool_size": 1641,
-  "usable": 1587,
-  "range_end": 793,
+  "pool_size": 2257,
+  "usable": 2208,
+  "range_end": 1104,
   "after_counts": {
-    "video_games": 372,
-    "sports": 73,
+    "video_games": 425,
+    "sports": 94,
     "board_games": 101,
-    "movies": 109,
-    "tv_shows": 132,
-    "anime_manga": 93,
-    "science_space": 65,
-    "technology": 73,
-    "history": 81,
-    "geography": 75,
-    "food_cuisine": 167,
-    "mythology_folklore": 106,
-    "art_literature": 97,
-    "music": 97
+    "movies": 151,
+    "tv_shows": 173,
+    "anime_manga": 133,
+    "science_space": 105,
+    "technology": 107,
+    "history": 145,
+    "geography": 121,
+    "food_cuisine": 266,
+    "mythology_folklore": 121,
+    "art_literature": 145,
+    "music": 151,
+    "tv_games": 19
   },
   "before_counts": {
-    "video_games": 372,
-    "sports": 73,
+    "video_games": 425,
+    "sports": 94,
     "board_games": 101,
     "movies": 109,
-    "tv_shows": 132,
-    "anime_manga": 93,
-    "science_space": 65,
-    "technology": 73,
-    "history": 81,
-    "geography": 75,
-    "food_cuisine": 167,
+    "tv_shows": 173,
+    "anime_manga": 133,
+    "science_space": 105,
+    "technology": 107,
+    "history": 145,
+    "geography": 121,
+    "food_cuisine": 266,
     "mythology_folklore": 106,
-    "art_literature": 97,
-    "music": 97
+    "art_literature": 145,
+    "music": 151,
+    "tv_games": 19
   }
 }

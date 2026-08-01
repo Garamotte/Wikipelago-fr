@@ -34,52 +34,57 @@ FLOOR_FRACTION = 0.40
 
 # Game category -> one or more Popular pages report titles
 CATEGORY_SOURCES: dict[str, list[str]] = {
-    "video_games": ["Wikipedia:WikiProject Video games/Popular pages"],
-    "board_games": ["Wikipedia:WikiProject Board and table games/Popular pages"],
-    "movies": ["Wikipedia:WikiProject Film/Popular pages"],
-    "tv_shows": ["Wikipedia:WikiProject Television/Popular pages"],
-    "anime_manga": ["Wikipedia:WikiProject Anime and manga/Popular pages"],
-    "sports": ["Wikipedia:WikiProject Sports/Popular pages"],
-    "food_cuisine": ["Wikipedia:WikiProject Food and drink/Popular pages"],
-    "history": ["Wikipedia:WikiProject History/Popular pages"],
-    "geography": ["Wikipedia:WikiProject Geography/Popular pages"],
+    "video_games": ["Projet:Jeu_vidéo/Pages_populaires"],
+    # "board_games": ["Wikipedia:WikiProject Board and table games/Popular pages"],
+    "movies": ["Projet:Cinéma/Pages_populaires"],
+    "tv_shows": ["Projet:Séries_télévisées/Pages_populaires"],
+    "tv_games": ["Projet:Jeux_télévisés/Pages_populaires"],
+    "anime_manga": ["Projet:Animation/Pages_populaires"],
+    "sports": ["Projet:Sport/Pages_populaires"],
+    "food_cuisine": ["Projet:Alimentation_et_gastronomie/Pages_populaires"],
+    "history": ["Projet:Histoire/Pages_populaires"],
+    "geography": ["Projet:Géographie/Pages_populaires"],
     "technology": [
-        "Wikipedia:WikiProject Computing/Popular pages",
-        "Wikipedia:WikiProject Internet/Popular pages",
+        "Projet:Informatique/Pages_populaires",
+        # "Wikipedia:WikiProject Internet/Popular pages",
     ],
     "science_space": [
-        "Wikipedia:WikiProject Astronomy/Popular pages",
-        "Wikipedia:WikiProject Physics/Popular pages",
-        "Wikipedia:WikiProject Spaceflight/Popular pages",
+        "Projet:Astronomie/Pages_populaires",
+        "Projet:Physique/Pages_populaires",
+        # "Wikipedia:WikiProject Spaceflight/Popular pages",
     ],
     "art_literature": [
-        "Wikipedia:WikiProject Literature/Popular pages",
-        "Wikipedia:WikiProject Novels/Popular pages",
-        "Wikipedia:WikiProject Visual arts/Popular pages",
+        "Projet:Littérature/Pages_populaires",
+        # "Wikipedia:WikiProject Novels/Popular pages",
+        # "Wikipedia:WikiProject Visual arts/Popular pages",
     ],
     # Mythology has no Popular pages report; Folklore is the closest clean list.
     # (Classical Greece and Rome is too broad — emperors/countries pollute the pool.)
     "mythology_folklore": [
-        "Wikipedia:WikiProject Folklore/Popular pages",
+        # "Projet:Mythologies/Pages_populaires",
+        "Projet:Mythologie_grecque/Pages_populaires",
+        "Projet:Mythologie_romaine/Pages_populaires",
+        "Projet:Mythologie_nordique/Pages_populaires",
+        "Projet:Créatures_légendaires/Pages_populaires",
     ],
     "music": [
         # WikiProject Music/Popular pages 404s; use these instead.
-        "Wikipedia:WikiProject Musicians/Popular pages",
-        "Wikipedia:WikiProject Albums/Popular pages",
-        "Wikipedia:WikiProject Songs/Popular pages",
+        "Projet:Musique/Pages_populaires",
+        # "Wikipedia:WikiProject Albums/Popular pages",
+        # "Wikipedia:WikiProject Songs/Popular pages",
     ],
 }
 
 # Mirror of world usable-title filters (keep in sync with __init__.py).
 BANNED_TITLE_KEYWORDS = (
-    "rifle", "pistol", "shotgun", "revolver", "machine gun", "submachine gun",
-    "discography", "president", "prime minister", "king of",
-    "queen of", "emperor", "sultan", "chancellor", "chemistry", "chemical",
-    "compound", "acid", "molecule", "molecular", "atom", "isotope", "reaction",
-    "periodic table", "organic chemistry", "inorganic chemistry",
+    "fusil", "pistolet", "fusil de chasse", "revolver", "mitrailleuse", "mitraillette",
+    "discographie", "président", "premier ministre", "roi de",
+    "reine de", "empereur", "sultan", "chancelier", "chimie", "chimique",
+    "composé", "acide", "molécule", "moléculaire", "atome", "isotope", "réaction",
+    "tableau périodique", "chimie organique", "chimie inorganique",
 )
 BANNED_TITLE_SUFFIXES = (
-    "(programming language)", "(operating system)", "(software)", "(computer)",
+    "(langage de programmation)", "(système d'exploitation)", "(logiciel)", "(ordinateur)",
 )
 BANNED_EXACT_TITLES = {
     "George Washington", "Abraham Lincoln", "Theodore Roosevelt",
@@ -91,7 +96,7 @@ BANNED_EXACT_TITLES = {
 NSFW_BLOCKLIST_SUBSTRINGS = (
     "hentai",
     "nhentai",
-    "pornography",
+    "pornographie",
     "rule 34",
     ".xxx",
 )

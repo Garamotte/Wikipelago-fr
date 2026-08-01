@@ -9,14 +9,14 @@ class CheckCount(Range):
     range_start = 10
     # Generation needs ~2 unique titles per round (strict no-repeat).
     # With all categories enabled the usable pool supports at most this many rounds.
-    range_end = 793
+    range_end = 1104
     default = 25
 
 
 class RequiredFragments(Range):
     display_name = "Required Fragments"
     range_start = 1
-    range_end = 793
+    range_end = 1104
     default = 5
 
 
