@@ -1,13 +1,13 @@
 {
   "summary": {
-    "pool_size": 1641,
-    "unique_titles": 1641,
-    "ok": 832,
+    "pool_size": 2257,
+    "unique_titles": 2257,
+    "ok": 1448,
     "missing": 424,
     "disambiguation": 146,
     "redirect_ok": 239,
     "duplicates": 0,
-    "all_ok": 832
+    "all_ok": 1448
   },
   "missing": [
     "Hades (video game)",
@@ -1542,5 +1542,5 @@
     }
   ],
   "duplicates": {},
-  "all_ok": 832
+  "all_ok": 1448
 }
