@@ -1015,7 +1015,7 @@ class APConnection:
     @staticmethod
     def _to_ws_url(server: str) -> str:
         cleaned = server.replace("ws://", "").replace("wss://", "").replace("http://", "").replace("https://", "").strip("/")
-        scheme = "wss" if cleaned.startswith("archipelago.gg") else "ws"
+        scheme = "wss" # if cleaned.startswith("archipelago.gg") else "ws"
         return f"{scheme}://{cleaned}"
 
     def _item_id_to_name(self, item_id: int) -> str | None:
